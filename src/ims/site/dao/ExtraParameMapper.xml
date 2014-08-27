@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.site.dao.ExtraParameMapper">
+	<!-- 关联映射 -->
+	<resultMap type="ExtraParame" id="extraParameMap"
+		autoMapping="true">
+		<id column="extraParameId" property="extraParameId" />
+		<id column="siteId" property="siteId" />
+		<association property="site" column="siteId" javaType="Site"
+			select="getSiteById">
+		</association>
+	</resultMap>
+
+	<!-- 关联嵌套查询，不是本表的查询， 需要清空缓存，查询方法名前缀改为“get”以示区别 -->
+	<select id="getSiteById" parameterType="int" resultType="Site">
+		select *
+		from tbl_site where siteId = #{siteId}
+	</select>
+
+	<insert id="add" parameterType="ExtraParame">
+		insert into tbl_extraParame
+		(siteId, loginUrl, loginName, loginPwd) value (#{site.siteId},
+		#{loginUrl}, #{loginName},
+		#{loginPwd})
+	</insert>
+
+	<delete id="deleteById" parameterType="int">
+		delete from
+		tbl_extraParame where extraParameId = #{extraParameId}
+	</delete>
+
+	<update id="update" parameterType="ExtraParame">
+		update tbl_extraParame set
+		siteId = #{site.siteId}, loginUrl =
+		#{loginUrl}, loginName =
+		#{loginName}, loginPwd = #{loginPwd} where extraParameId =
+		#{extraParameId}
+	</update>
+
+	<select id="loadBySiteId" parameterType="int" resultMap="extraParameMap">
+		select *
+		from tbl_extraParame where siteId = #{siteId}
+	</select>
+
+	<select id="loadById" parameterType="int" resultMap="extraParameMap">
+		select *
+		from tbl_extraParame where extraParameId = #{extraParameId}
+	</select>
+</mapper>

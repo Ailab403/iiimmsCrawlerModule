@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.site.dao.PostMapper">
+	<!-- 关联映射 -->
+	<resultMap type="Post" id="postMap" autoMapping="true">
+		<id column="postId" property="postId" />
+		<id column="siteId" property="siteId" />
+		<id column="themeId" property="themeId" />
+		<association property="site" column="siteId" javaType="Site"
+			select="getSiteById">
+		</association>
+		<association property="theme" column="themeId" javaType="Theme"
+			select="getThemeById">
+		</association>
+	</resultMap>
+
+	<!-- 关联嵌套查询，不是本表的查询， 需要清空缓存，查询方法名前缀改为“get”以示区别 -->
+	<select id="getSiteById" parameterType="int" resultType="Site"
+		flushCache="true">
+		select * from tbl_site where siteId = #{siteId}
+	</select>
+	<select id="getThemeById" parameterType="int" resultType="Theme"
+		flushCache="true">
+		select * from tbl_theme where themeId = #{themeId}
+	</select>
+
+	<insert id="add" parameterType="Post">
+		insert into tbl_post ( siteId,
+		themeId,
+		postName, postUrl, postUrlMD5, clickNum, replyNum,
+		lastReplyTime, fetchable,
+		refreshTime) value(#{site.siteId},
+		#{theme.themeId},
+		#{postName}, #{postUrl},
+		#{postUrlMD5}, #{clickNum},
+		#{replyNum},
+		#{lastReplyTime}, #{fetchable},
+		#{refreshTime})
+	</insert>
+
+	<delete id="deleteByThemeId" parameterType="int">
+		delete from tbl_post
+		where themeId = #{themeId}
+	</delete>
+
+	<delete id="deleteBySiteId" parameterType="int">
+		delete from tbl_post
+		where siteId = #{siteId}
+	</delete>
+
+	<delete id="deleteByFetchable" parameterType="int">
+		delete from
+		tbl_post where fetchable = #{fetchable}
+	</delete>
+
+	<update id="update" parameterType="Post">
+		update tbl_post set themeId =
+		#{theme.themeId}, siteId = #{site.siteId},
+		postName =
+		#{postName},
+		postUrl = #{postUrl}, postUrlMD5 =
+		#{postUrlMD5},
+		clickNum =
+		#{clickNum}, replyNum = #{replyNum},
+		forwardNum =
+		#{forwardNum},
+		lastReplyTime = #{lastReplyTime}, fetchable
+		= #{fetchable},
+		refreshTime
+		=
+		#{refreshTime} where postId = #{postId}
+	</update>
+
+	<update id="updateNumByPostUrlMD5" parameterType="Post">
+		update tbl_post
+		set clickNum = #{clickNum}, replyNum = #{replyNum}, forwardNum =
+		#{forwardNum} where postUrlMD5 = #{postUrlMD5}
+	</update>
+
+	<update id="updateByPostUrlMD5" parameterType="Post">
+		update tbl_post
+		set postName =
+		#{postName}, postUrl = #{postUrl},
+		postUrlMD5
+		=
+		#{postUrlMD5},
+		clickNum = #{clickNum}, replyNum =
+		#{replyNum},
+		forwardNum =
+		#{forwardNum}, lastReplyTime =
+		#{lastReplyTime}, fetchable
+		= #{fetchable},
+		refreshTime =
+		#{refreshTime} where postUrlMD5 =
+		#{postUrlMD5}
+	</update>
+
+	<update id="updateFetchableByPostUrlMD5">
+		update tbl_post set fetchable = #{fetchable} where
+		postUrlMD5 = #{postUrlMD5}
+	</update>
+
+	<delete id="clear">
+		delete from tbl_post
+	</delete>
+
+	<select id="listByThemeId" parameterType="int" resultMap="postMap">
+		select
+		* from tbl_post where themeId = #{themeId}
+	</select>
+
+	<select id="listByThemeIdAndFetchable" parameterType="map"
+		resultMap="postMap">
+		select * from tbl_post where themeId = #{themeId} and
+		fetchable = #{fetchable}
+	</select>
+
+	<select id="listBySiteId" parameterType="int" resultMap="postMap">
+		select *
+		from tbl_post where siteId = #{siteId}
+	</select>
+
+	<select id="listBySiteIdAndFetchable" parameterType="map"
+		resultMap="postMap">
+		select * from tbl_post where siteId = #{siteId} and
+		fetchable = #{fetchable}
+	</select>
+
+	<select id="listAll" resultMap="postMap">
+		select * from tbl_post
+	</select>
+</mapper>

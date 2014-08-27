@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parame-info version="1.0" refreshtime="2014-02-24 16:51:00">
+
+	<element id="baNameQuery">
+		<value>div.mbx>div.inn</value>
+	</element>
+	<element id="titleQuery">
+		<value>h1[id*=title]</value>
+	</element>
+	<element id="pagerQuery">
+		<value>div.page</value>
+	</element>
+	<element id="fetchPagerMethod">
+		<value>getMaoputietiePagerUrl</value>
+	</element>
+	<element id="postDivQuery">
+		<value>div.tzbdP</value>
+	</element>
+	<element id="postContentQuery">
+		<value>div#js-sub-body</value>
+	</element>
+	<element id="postAuthorQuery">
+		<value>div.name>a.fcB</value>
+	</element>
+	<element id="postTimeQuery">
+		<value>span.date</value>
+	</element>
+	<element id="replyDivQuery">
+		<value>div.box2.js-reply</value>
+	</element>
+	<element id="replyContentQuery">
+		<value>div.h_nr.js-reply-body</value>
+	</element>
+	<element id="replyAuthorQuery">
+		<value>a.h_yh</value>
+	</element>
+	<element id="replyTimeQuery">
+		<value>div.h_lz</value>
+	</element>
+</parame-info>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.crawlerLog.dao.ThemeLogMapper">
+	<!-- 关联映射 -->
+	<resultMap type="ThemeLog" id="themeLogMap" autoMapping="true">
+		<id column="themeLogId" property="themeLogId" />
+		<association property="taskLog" column="taskLogId"
+			javaType="TaskLog" select="getTaskLogById">
+		</association>
+		<association property="theme" column="themeId" javaType="Theme"
+			select="getThemeById">
+		</association>
+		<association property="site" column="siteId" javaType="Site"
+			select="getSiteById"></association>
+	</resultMap>
+
+	<!-- 关联嵌套查询，不是本表的查询， 需要清空缓存，查询方法名前缀改为“get”以示区别 -->
+	<select id="getTaskLogById" parameterType="String" resultType="TaskLog"
+		flushCache="true">
+		select * from tbl_taskLog where taskLogId = #{taskLogId}
+	</select>
+	<select id="getThemeById" parameterType="int" resultType="Theme"
+		flushCache="true">
+		select * from tbl_theme where themeId = #{themeId}
+	</select>
+	<select id="getSiteById" parameterType="int" resultType="Site"
+		flushCache="true">
+		select * from tbl_site where siteId = #{siteId}
+	</select>
+
+	<insert id="add" parameterType="ThemeLog">
+		insert into tbl_themeLog
+		(themeLogId, taskLogId, themeId, siteId,
+		themeNewPostNum,
+		themeUpdatePostNum, themeFetchNum, themeFetchSuccNum,
+		themeLogExp)
+		value
+		(#{themeLogId},#{taskLog.taskLogId},
+		#{theme.themeId},
+		#{site.siteId},
+		#{themeNewPostNum},
+		#{themeUpdatePostNum},
+		#{themeFetchNum}, #{themeFetchSuccNum},
+		#{themeLogExp})
+	</insert>
+
+	<delete id="deleteById" parameterType="String">
+		delete from tbl_themeLog
+		where themeLogId = #{themeLogId}
+	</delete>
+
+	<delete id="deleteByTaskLogId" parameterType="String">
+		delete from
+		tbl_themeLog where themeLogId = #{themeLogId}
+	</delete>
+
+	<update id="update" parameterType="ThemeLog">
+		update tbl_themeLog set
+		taskLogId = #{taskLog.taskLogId},
+		themeId=#{theme.themeId}, 
+		siteId =#{site.siteId},
+		themeNewPostNum =#{themeNewPostNum},
+		themeUpdatePostNum =#{themeUpdatePostNum}, 
+		themeFetchNum=#{themeFetchNum},
+		themeFetchSuccNum=#{themeFetchSuccNum},
+		themeLogExp =#{themeLogExp}
+		where 
+		themeLogId =#{themeLogId}
+	</update>
+
+	<select id="loadById" parameterType="String" resultMap="themeLogMap">
+		select *
+		from tbl_themeLog
+		where themeLogId = #{themeLogId}
+	</select>
+
+	<select id="listAll" resultMap="themeLogMap">
+		select * from tbl_themeLog
+	</select>
+
+	<select id="listByTaskLogId" parameterType="String" resultMap="themeLogMap">
+		select * from tbl_themeLog where taskLogId = #{taskLogId}
+	</select>
+</mapper>
+

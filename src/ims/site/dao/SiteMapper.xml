@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.site.dao.SiteMapper">
+	<!-- 关联映射 -->
+	<resultMap type="Site" id="siteMap" autoMapping="true">
+		<id column="siteId" property="siteId" />
+		<id column="categoryId" property="categoryId" />
+		<id column="toolId" property="toolId" />
+		<association property="siteCategory" column="categoryId"
+			javaType="SiteCategory" select="getSiteCategoryById">
+		</association>
+		<association property="tool" column="toolId" javaType="Tool"
+			select="getToolById">
+		</association>
+	</resultMap>
+
+	<!-- 关联嵌套查询，不是本表的查询， 需要清空缓存，查询方法名前缀改为“get”以示区别 -->
+	<select id="getSiteCategoryById" parameterType="int" resultType="SiteCategory"
+		flushCache="true">
+		select * from tbl_siteCategory where categoryId =
+		#{categoryId}
+	</select>
+	<select id="getToolById" parameterType="int" resultType="Tool"
+		flushCache="true">
+		select * from tbl_tool where toolId = #{toolId}
+	</select>
+
+	<insert id="add" parameterType="Site">
+		insert into tbl_site (categoryId,
+		toolId, siteName, nickName, seedUrl, enCode, siteHotNum, siteGrabable,
+		refreshTime, siteExp) value (#{siteCategory.categoryId},
+		#{tool.toolId},
+		#{siteName}, #{nickName},
+		#{seedUrl}, #{enCode},
+		#{siteHotNum},
+		#{siteGrabable},
+		#{refreshTime}, #{siteExp})
+	</insert>
+
+	<delete id="deleteById" parameterType="int">
+		delete from tbl_site where
+		siteId
+		= #{siteId}
+	</delete>
+
+	<update id="update" parameterType="Site">
+		update tbl_site set categoryId
+		= #{siteCategory.categoryId}, toolId =
+		#{tool.toolId}, siteName =
+		#{siteName}, nickName = #{nickName},
+		seedUrl = #{seedUrl}, enCode =
+		#{enCode}, siteHotNum = #{siteHotNum},
+		siteGrabable = #{siteGrabable},
+		refreshTime = #{refreshTime}, siteExp
+		= #{siteExp} where siteId =
+		#{siteId}
+	</update>
+
+	<select id="loadById" parameterType="int" resultMap="siteMap">
+		select *
+		from tbl_site where siteId = #{siteId}
+	</select>
+
+	<select id="listAll" resultMap="siteMap">
+		select * from tbl_site
+	</select>
+
+	<select id="listBySiteGrabable" parameterType="int" resultMap="siteMap">
+		select * from tbl_site where siteGrabable = #{siteGrabable}
+	</select>
+
+	<select id="listByCategoryId" parameterType="int" resultMap="siteMap">
+		select * from tbl_site where categoryId = #{categoryId}
+	</select>
+</mapper>

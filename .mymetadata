@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="iiimmsCrawlerModule"
+  id="myeclipse.1393661431986"
+  context-root="/iiimmsCrawlerModule"
+  j2ee-spec="5.0"
+  archive="iiimmsCrawlerModule.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

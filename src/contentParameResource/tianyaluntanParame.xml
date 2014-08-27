@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parame-info version="1.0" refreshtime="2014-02-24 16:51:00">
+
+	<element id="baNameQuery">
+		<value>p.crumbs a[href*=list]</value>
+	</element>
+	<element id="titleQuery">
+		<value>span.s_title>span</value>
+	</element>
+	<element id="pagerQuery">
+		<value>div.atl-pages</value>
+	</element>
+	<element id="fetchPagerMethod">
+		<value>getTianyaluntanPagerUrl</value>
+	</element>
+	<element id="postDivQuery">
+		<value>div#bd</value>
+	</element>
+	<element id="postContentQuery">
+		<value>div[class^=bbs-content]</value>
+	</element>
+	<element id="postAuthorQuery">
+		<value>a[uname]</value>
+	</element>
+	<element id="postTimeQuery">
+		<value>div.atl-info>span:containsOwn(时间)</value>
+	</element>
+	<element id="replyDivQuery">
+		<value>div[js_username]</value>
+	</element>
+	<element id="replyContentQuery">
+		<value>div.bbs-content</value>
+	</element>
+	<element id="replyAuthorQuery">
+		<value>a[uname]</value>
+	</element>
+	<element id="replyTimeQuery">
+		<value>div.atl-info>span:containsOwn(时间)</value>
+	</element>
+</parame-info>

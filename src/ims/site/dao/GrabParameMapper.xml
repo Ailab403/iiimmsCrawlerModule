@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.site.dao.GrabParameMapper">
+	<!-- 关联映射 -->
+	<resultMap type="GrabParame" id="grabParameMap" autoMapping="true">
+		<id column="grabParameId" property="grabParameId" />
+		<id column="siteId" property="siteId" />
+		<id column="categoryid" property="categoryId" />
+		<association property="site" column="siteId" javaType="Site"
+			select="getSiteById">
+		</association>
+		<association property="siteCategory" column="categoryId"
+			javaType="SiteCategory" select="getSiteCategoryById">
+		</association>
+	</resultMap>
+
+	<!-- 关联嵌套查询，不是本表的查询， 需要清空缓存，查询方法名前缀改为“get”以示区别 -->
+	<select id="getSiteById" parameterType="int" resultType="Site"
+		flushCache="true">
+		select * from tbl_site where siteId = #{siteId}
+	</select>
+	<select id="getSiteCategoryById" parameterType="int" resultType="SiteCategory"
+		flushCache="true">
+		select * from tbl_siteCategory where categoryId =
+		#{categoryId}
+	</select>
+
+	<!-- 与spring整合后，表名必须按照除首单词以外的单词首字母大写的命名规范命名 -->
+	<insert id="add" parameterType="GrabParame">
+		insert into tbl_grabParame
+		(siteId, categoryId,
+		themeListDivQuery, themeDivQuery,
+		themeNameQuery,
+		themeUrlQuery,
+		postListPagerQuery,
+		postListNextQuery,
+		postListSpDivQuery,
+		postDivQuery, postNameQuery,
+		postUrlQuery,
+		postClickNumQuery,
+		postReplyNumQuery, postForwardNumQuery,
+		postTimeQuery) value
+		(#{site.siteId}, #{siteCategory.categoryId},
+		#{themeListDivQuery},
+		#{themeDivQuery},
+		#{themeNameQuery},
+		#{themeUrlQuery},
+		#{postListPagerQuery},
+		#{postListNextQuery},
+		#{postListSpDivQuery},
+		#{postDivQuery},
+		#{postNameQuery},
+		#{postUrlQuery},
+		#{postClickNumQuery},
+		#{postReplyNumQuery},
+		#{postForwardNumQuery},
+		#{postTimeQuery})
+	</insert>
+
+	<delete id="deleteById" parameterType="int">
+		delete from tbl_grabParame
+		where grabParameId = #{grabParameId}
+	</delete>
+
+	<update id="update" parameterType="GrabParame">
+		update tbl_grabParame set
+		siteId = #{site.siteId}, categoryId =
+		#{siteCategory.categoryId},
+		themeDivQuery = #{themeDivQuery},
+		themeNameQuery = #{themeNameQuery},
+		themeUrlQuery =
+		#{themeUrlQuery},
+		postListPagerQuery =
+		#{postListPagerQuery},
+		postListNextQuery =
+		#{postListNextQuery},
+		postListSpDivQuery =
+		#{postListSpDivQuery},
+		postDivQuery =
+		#{postDivQuery},
+		postNameQuery =
+		#{postNameQuery},
+		postUrlQuery =
+		#{postUrlQuery}, postClickNumQuery =
+		#{postClickNumQuery},
+		postReplyNumQuery = #{postReplyNumQuery},
+		postForwardNumQuery =
+		#{postForwardNumQuery},
+		postTimeQuery =
+		#{postTimeQuery} where
+		grabParameId = #{grabParameId}
+	</update>
+
+	<select id="loadBySiteId" parameterType="int" resultMap="grabParameMap">
+		select *
+		from tbl_grabParame where siteId = #{siteId}
+	</select>
+
+	<select id="loadById" parameterType="int" resultMap="grabParameMap">
+		select *
+		from tbl_grabParame where grabParameId = #{grabParameId}
+	</select>
+</mapper>

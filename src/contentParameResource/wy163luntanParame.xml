@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parame-info version="1.0" refreshtime="2014-02-24 16:51:00">
+    
+    <element id="baNameQuery">
+		<value></value>
+	</element>
+	<element id="titleQuery">
+		<value></value>
+	</element>
+	<element id="pagerQuery">
+		<value></value>
+	</element>
+	<element id="fetchPagerMethod">
+		<value></value>
+	</element>
+	<element id="postDivQuery">
+		<value></value>
+	</element>
+	<element id="postContentQuery">
+		<value></value>
+	</element>
+	<element id="postAuthorQuery">
+		<value></value>
+	</element>
+	<element id="postTimeQuery">
+		<value></value>
+	</element>
+	<element id="replyDivQuery">
+		<value></value>
+	</element>
+	<element id="replyContentQuery">
+		<value></value>
+	</element>
+	<element id="replyAuthorQuery">
+		<value></value>
+	</element>
+	<element id="replyTimeQuery">
+		<value></value>
+	</element>
+</parame-info>

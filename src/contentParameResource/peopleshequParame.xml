@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parame-info version="1.0" refreshtime="2014-02-24 16:51:00">
+
+	<element id="baNameQuery">
+		<value>div.wrapNavBar.clearfix>a[href*=board]</value>
+	</element>
+	<element id="titleQuery">
+		<value>div.navBar>h2</value>
+	</element>
+	<element id="pagerQuery">
+		<value>div.pageBar</value>
+	</element>
+	<element id="fetchPagerMethod">
+		<value>getPeopleshequPagerUrl</value>
+	</element>
+	<element id="postDivQuery">
+		<value>p.treeTitle,ul.subUL>li</value>
+	</element>
+	<element id="postContentQuery">
+		<value>a.treeReply</value>
+	</element>
+	<element id="postAuthorQuery">
+		<value>a[class=userNick]</value>
+	</element>
+	<element id="postTimeQuery">
+		<value>span:not(.showSubreply)</value>
+	</element>
+	<element id="replyDivQuery">
+		<value>ul.subUL>li</value>
+	</element>
+	<element id="replyContentQuery">
+		<value>a.treeReply</value>
+	</element>
+	<element id="replyAuthorQuery">
+		<value>a[class=userNick]</value>
+	</element>
+	<element id="replyTimeQuery">
+		<value>span</value>
+	</element>
+</parame-info>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parame-info version="1.1" refreshtime="2014-02-24 20:14:00">
+
+	<element id="baNameQuery">
+		<value>a[href*=forumdisplay]</value>
+	</element>
+	<element id="titleQuery">
+		<value>a[class=ltx2]</value>
+	</element>
+	<element id="pagerQuery">
+		<value>div.numb_post2</value>
+	</element>
+	<element id="fetchPagerMethod">
+		<value>getFenghuangluntanPagerUrl</value>
+	</element>
+	<element id="postDivQuery">
+		<value>div[class^=left]</value>
+	</element>
+	<element id="postContentQuery">
+		<value>div[id^=postmessage]</value>
+	</element>
+	<element id="postAuthorQuery">
+		<value>span.fb>a[target=_blank],h3>a[target=_blank]</value>
+	</element>
+	<element id="postTimeQuery">
+		<value>span.cRed,li.cGray</value>
+	</element>
+	<element id="replyDivQuery">
+		<value></value>
+	</element>
+	<element id="replyContentQuery">
+		<value></value>
+	</element>
+	<element id="replyAuthorQuery">
+		<value></value>
+	</element>
+	<element id="replyTimeQuery">
+		<value></value>
+	</element>
+</parame-info>

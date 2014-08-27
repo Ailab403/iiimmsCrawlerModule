@@ -1,0 +1,601 @@
+	<li  id="cmt_3495489">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495489"><a href="http://blog.sina.com.cn/u/1571196990" target="_blank">九年嘟嘟</a></span><span class="SG_revert_Time" userid="1571196990"><em class="SG_txtc">2014-05-28 10:11:42</em>&nbsp<a id="5054769e0102efuk_3495489" onclick="comment_report('5054769e0102efuk_3495489')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495489">问好！</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495490">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495490"><a href="http://blog.sina.com.cn/u/3235157967" target="_blank">威洛尼艺术涂料</a></span><span class="SG_revert_Time" userid="3235157967"><em class="SG_txtc">2014-05-28 10:12:07</em>&nbsp<a id="5054769e0102efuk_3495490" onclick="comment_report('5054769e0102efuk_3495490')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495490">沙发</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495491">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495491"><a href="http://blog.sina.com.cn/u/1752655287" target="_blank">多了会醉嚒</a></span><span class="SG_revert_Time" userid="1752655287"><em class="SG_txtc">2014-05-28 10:12:33</em>&nbsp<a id="5054769e0102efuk_3495491" onclick="comment_report('5054769e0102efuk_3495491')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495491">很喜欢《归来》，马老师好！</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495492">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495492"><a href="http://blog.sina.com.cn/u/1317646293" target="_blank">梅子絮语</a></span><span class="SG_revert_Time" userid="1317646293"><em class="SG_txtc">2014-05-28 10:12:54</em>&nbsp<a id="5054769e0102efuk_3495492" onclick="comment_report('5054769e0102efuk_3495492')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495492">呵呵，板凳...</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495493">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495493"><a href="http://blog.sina.com.cn/u/1317646293" target="_blank">梅子絮语</a></span><span class="SG_revert_Time" userid="1317646293"><em class="SG_txtc">2014-05-28 10:13:10</em>&nbsp<a id="5054769e0102efuk_3495493" onclick="comment_report('5054769e0102efuk_3495493')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495493">问好马老...</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495495">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495495"><a href="http://blog.sina.com.cn/u/1317646293" target="_blank">梅子絮语</a></span><span class="SG_revert_Time" userid="1317646293"><em class="SG_txtc">2014-05-28 10:13:33</em>&nbsp<a id="5054769e0102efuk_3495495" onclick="comment_report('5054769e0102efuk_3495495')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495495">再战一贴...</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495496">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495496"><a href="http://blog.sina.com.cn/u/3235157967" target="_blank">威洛尼艺术涂料</a></span><span class="SG_revert_Time" userid="3235157967"><em class="SG_txtc">2014-05-28 10:13:40</em>&nbsp<a id="5054769e0102efuk_3495496" onclick="comment_report('5054769e0102efuk_3495496')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495496">也许这才是新的开始！！不要一直向前走，一定时候也要回味一下以前的美好的东西！！<br><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /></div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495497">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495497"><a href="http://blog.sina.com.cn/u/2261780725" target="_blank">自由时髦老太太</a></span><span class="SG_revert_Time" userid="2261780725"><em class="SG_txtc">2014-05-28 10:13:49</em>&nbsp<a id="5054769e0102efuk_3495497" onclick="comment_report('5054769e0102efuk_3495497')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495497">转发微博</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自自由时髦老太太的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495499">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495499"><a href="http://blog.sina.com.cn/u/1016882982" target="_blank">84000FN</a></span><span class="SG_revert_Time" userid="1016882982"><em class="SG_txtc">2014-05-28 10:14:34</em>&nbsp<a id="5054769e0102efuk_3495499" onclick="comment_report('5054769e0102efuk_3495499')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495499">您不会去捧臭脚了吧？</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自84000FN的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495500">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495500"><a href="http://blog.sina.com.cn/u/3291877703" target="_blank">游泳的鱼07</a></span><span class="SG_revert_Time" userid="3291877703"><em class="SG_txtc">2014-05-28 10:14:36</em>&nbsp<a id="5054769e0102efuk_3495500" onclick="comment_report('5054769e0102efuk_3495500')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495500">，《归来》迟了，如拍摄于二十年前，好评一定如潮。-----。我信。</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495501">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495501"><a href="http://blog.sina.com.cn/u/1756794507" target="_blank">释涅僧人</a></span><span class="SG_revert_Time" userid="1756794507"><em class="SG_txtc">2014-05-28 10:14:37</em>&nbsp<a id="5054769e0102efuk_3495501" onclick="comment_report('5054769e0102efuk_3495501')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495501">严歌苓二十年前没有写本子</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自释涅僧人的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495502">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495502"><a href="http://blog.sina.com.cn/u/1733244434" target="_blank">了然斋主</a></span><span class="SG_revert_Time" userid="1733244434"><em class="SG_txtc">2014-05-28 10:15:24</em>&nbsp<a id="5054769e0102efuk_3495502" onclick="comment_report('5054769e0102efuk_3495502')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495502"><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0305EN00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="美好" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0305EN00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="美好" /></div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495503">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495503"><a href="http://blog.sina.com.cn/u/1582614562" target="_blank">世界迷惘了我</a></span><span class="SG_revert_Time" userid="1582614562"><em class="SG_txtc">2014-05-28 10:16:36</em>&nbsp<a id="5054769e0102efuk_3495503" onclick="comment_report('5054769e0102efuk_3495503')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495503">张艺谋已经做了对岁月致敬的事。终于等到您的评价了。</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495504">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495504"><a href="http://blog.sina.com.cn/u/1058219122" target="_blank">土豆无罪</a></span><span class="SG_revert_Time" userid="1058219122"><em class="SG_txtc">2014-05-28 10:16:54</em>&nbsp<a id="5054769e0102efuk_3495504" onclick="comment_report('5054769e0102efuk_3495504')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495504"><br>没有如果两演员撑场，这部戏真看不下去！</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495505">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495505"><a href="http://blog.sina.com.cn/u/5145476032" target="_blank">海角流风</a></span><span class="SG_revert_Time" userid="5145476032"><em class="SG_txtc">2014-05-28 10:17:09</em>&nbsp<a id="5054769e0102efuk_3495505" onclick="comment_report('5054769e0102efuk_3495505')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495505">马老师给您看看我写的《铜镜》好吗？</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自海角流风的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495508">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495508"><a href="http://blog.sina.com.cn/u/1308200903" target="_blank">大河南街人王光珉</a><a href="http://blog.sina.com.cn/v/verify" target="_blank"><img class="SG_icon SG_icon146" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" title="新浪个人认证" alt="新浪个人认证" align="absmiddle" /></a></span><span class="SG_revert_Time" userid="1308200903"><em class="SG_txtc">2014-05-28 10:18:18</em>&nbsp<a id="5054769e0102efuk_3495508" onclick="comment_report('5054769e0102efuk_3495508')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495508"><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0316EN00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="音乐" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0310EN00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="逗你玩" /></div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495509">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495509"><a href="http://blog.sina.com.cn/u/1676693182" target="_blank">紫翡</a></span><span class="SG_revert_Time" userid="1676693182"><em class="SG_txtc">2014-05-28 10:18:22</em>&nbsp<a id="5054769e0102efuk_3495509" onclick="comment_report('5054769e0102efuk_3495509')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495509"><br>反正我喜欢</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495510">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495510"><a href="http://blog.sina.com.cn/u/2847758333" target="_blank">北京的秋天2012</a></span><span class="SG_revert_Time" userid="2847758333"><em class="SG_txtc">2014-05-28 10:19:07</em>&nbsp<a id="5054769e0102efuk_3495510" onclick="comment_report('5054769e0102efuk_3495510')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495510">回复 <a href="http://weibo.com/n/海角流风" target="_blank">@海角流风</a> :发上来，大家看看，顶的人多了，马老师才看得见</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自北京的秋天2012的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495511">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495511"><a href="http://blog.sina.com.cn/u/3450459742" target="_blank">飞驰的骏马哋</a></span><span class="SG_revert_Time" userid="3450459742"><em class="SG_txtc">2014-05-28 10:19:16</em>&nbsp<a id="5054769e0102efuk_3495511" onclick="comment_report('5054769e0102efuk_3495511')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495511">而今天的电影大多忽视了编剧的力量，也就忽视了存在的道理。电影吸引眼球，普及众所周知的情调，追求短期收益。以盈利为目的，必然忽视文化内涵，由此，<img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0092EN00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="开心" />编剧、作者什么都不是了！</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495512">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495512"><a href="http://blog.sina.com.cn/u/1707526993" target="_blank">职业赶路</a></span><span class="SG_revert_Time" userid="1707526993"><em class="SG_txtc">2014-05-28 10:19:40</em>&nbsp<a id="5054769e0102efuk_3495512" onclick="comment_report('5054769e0102efuk_3495512')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495512">看来老谋子得与时俱进[-嘻嘻]</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自职业赶路的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495513">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495513"><a href="http://blog.sina.com.cn/u/1868494702" target="_blank">石家庄触达科技</a></span><span class="SG_revert_Time" userid="1868494702"><em class="SG_txtc">2014-05-28 10:20:09</em>&nbsp<a id="5054769e0102efuk_3495513" onclick="comment_report('5054769e0102efuk_3495513')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495513">高人的见解永远是高层面的，学习！</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495514">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495514"><a href="http://blog.sina.com.cn/u/2030768927" target="_blank">lilysagle</a></span><span class="SG_revert_Time" userid="2030768927"><em class="SG_txtc">2014-05-28 10:20:33</em>&nbsp<a id="5054769e0102efuk_3495514" onclick="comment_report('5054769e0102efuk_3495514')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495514">赞同最后一句话</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495516">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495516"><a href="http://blog.sina.com.cn/u/1224170504" target="_blank">行歌如板</a></span><span class="SG_revert_Time" userid="1224170504"><em class="SG_txtc">2014-05-28 10:20:55</em>&nbsp<a id="5054769e0102efuk_3495516" onclick="comment_report('5054769e0102efuk_3495516')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495516">这个时代，只注重于表面的喧嚣，没有多少人甘于背后的寂寞，更没有人去关注人后的艰辛</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495517">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495517"><a href="http://blog.sina.com.cn/u/1099177394" target="_blank">白云</a></span><span class="SG_revert_Time" userid="1099177394"><em class="SG_txtc">2014-05-28 10:21:36</em>&nbsp<a id="5054769e0102efuk_3495517" onclick="comment_report('5054769e0102efuk_3495517')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495517">先抢座</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495518">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495518"><a href="http://blog.sina.com.cn/u/5145476032" target="_blank">海角流风</a></span><span class="SG_revert_Time" userid="5145476032"><em class="SG_txtc">2014-05-28 10:21:43</em>&nbsp<a id="5054769e0102efuk_3495518" onclick="comment_report('5054769e0102efuk_3495518')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495518">回复 <a href="http://weibo.com/n/北京的秋天2012" target="_blank">@北京的秋天2012</a> :字数上限，发不了</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自海角流风的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495519">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495519"><a href="http://blog.sina.com.cn/u/2268759257" target="_blank">冰碗儿</a></span><span class="SG_revert_Time" userid="2268759257"><em class="SG_txtc">2014-05-28 10:22:13</em>&nbsp<a id="5054769e0102efuk_3495519" onclick="comment_report('5054769e0102efuk_3495519')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495519">您的点评太到位了</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495520">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495520"><a href="http://blog.sina.com.cn/u/1615769251" target="_blank">清风扬one</a></span><span class="SG_revert_Time" userid="1615769251"><em class="SG_txtc">2014-05-28 10:22:19</em>&nbsp<a id="5054769e0102efuk_3495520" onclick="comment_report('5054769e0102efuk_3495520')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495520">已成历史</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自清风扬one的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495521">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495521"><a href="http://blog.sina.com.cn/u/2268759257" target="_blank">冰碗儿</a></span><span class="SG_revert_Time" userid="2268759257"><em class="SG_txtc">2014-05-28 10:22:52</em>&nbsp<a id="5054769e0102efuk_3495521" onclick="comment_report('5054769e0102efuk_3495521')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495521">赞</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自冰碗儿的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495522">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495522"><a href="http://blog.sina.com.cn/u/5145476032" target="_blank">海角流风</a></span><span class="SG_revert_Time" userid="5145476032"><em class="SG_txtc">2014-05-28 10:22:58</em>&nbsp<a id="5054769e0102efuk_3495522" onclick="comment_report('5054769e0102efuk_3495522')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495522">《铜镜》 词曲:海角~流风   纸窗里  胭脂锁青春 手握梳  梳不掉白发痕 铜镜圆  尤如你的脸 你的温柔不知给过谁 前世镜  偷窥你的美 洛阳城  今生还在等  掬摸铜绿摸不清你的脸 轮回里  你已爱了谁 铜镜映出你的美 可惜当年追不回 远帆数艘已来归 不知哪朝載你回</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自海角流风的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495523">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495523"><a href="http://blog.sina.com.cn/u/1852886595" target="_blank">社会秤砣</a></span><span class="SG_revert_Time" userid="1852886595"><em class="SG_txtc">2014-05-28 10:23:05</em>&nbsp<a id="5054769e0102efuk_3495523" onclick="comment_report('5054769e0102efuk_3495523')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495523">无非是八十年代伤痕文学和电影的翻版而已。当然，八零后和九零后自然不知道那段风潮，他们会从张艺谋这个《归来》中再次体验一次。但他们却没有六零后和七零后的经历和判断能力，自然会把《归来》当真。以为那时的历史就是那样。但可惜，《归来》酱油和醋等作料放的太多了……</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495525">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495525"><a href="http://blog.sina.com.cn/u/5145476032" target="_blank">海角流风</a></span><span class="SG_revert_Time" userid="5145476032"><em class="SG_txtc">2014-05-28 10:23:36</em>&nbsp<a id="5054769e0102efuk_3495525" onclick="comment_report('5054769e0102efuk_3495525')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495525">远帆数艘已来归 不知哪朝載你回 你的墨发胜雪簪 我在江面等你还 秋风杯杯推人 醉思念在江边发霉 梳妆台  岁月在覆盖 青石板路是我在慷慨 铜镜残缺似你的羞怯 落款时提醒我别忘记</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自海角流风的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495524">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495524"><a href="http://blog.sina.com.cn/u/3911823946" target="_blank">短路的--神经</a></span><span class="SG_revert_Time" userid="3911823946"><em class="SG_txtc">2014-05-28 10:23:38</em>&nbsp<a id="5054769e0102efuk_3495524" onclick="comment_report('5054769e0102efuk_3495524')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495524">问候您！</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495526">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495526"><a href="http://blog.sina.com.cn/u/2847758333" target="_blank">北京的秋天2012</a></span><span class="SG_revert_Time" userid="2847758333"><em class="SG_txtc">2014-05-28 10:23:39</em>&nbsp<a id="5054769e0102efuk_3495526" onclick="comment_report('5054769e0102efuk_3495526')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495526">回复 <a href="http://weibo.com/n/海角流风" target="_blank">@海角流风</a> :发链接啊！</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自北京的秋天2012的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495527">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495527"><a href="http://blog.sina.com.cn/u/1852886595" target="_blank">社会秤砣</a></span><span class="SG_revert_Time" userid="1852886595"><em class="SG_txtc">2014-05-28 10:23:45</em>&nbsp<a id="5054769e0102efuk_3495527" onclick="comment_report('5054769e0102efuk_3495527')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495527">无非是八十年代伤痕文学和电影的翻版而已。当然，八零后和九零后自然不知道那段风潮，他们会从张艺谋这个《归来》中再次体验一次。但他们却没有六零后和七零后的经历和判断能力，自然会把《归来》当真。以为那时的历史就是那样。但可惜，《归来》酱油和醋等作料放的太多了……</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自社会秤砣的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495528">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495528"><a href="http://blog.sina.com.cn/u/1723226117" target="_blank">奥丽格</a></span><span class="SG_revert_Time" userid="1723226117"><em class="SG_txtc">2014-05-28 10:24:04</em>&nbsp<a id="5054769e0102efuk_3495528" onclick="comment_report('5054769e0102efuk_3495528')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495528">深知编剧的重要，所以俺们都去看美剧了，啊哈哈哈</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495529">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495529"><a href="http://blog.sina.com.cn/u/2624054713" target="_blank">我这下牛逼了</a></span><span class="SG_revert_Time" userid="2624054713"><em class="SG_txtc">2014-05-28 10:24:35</em>&nbsp<a id="5054769e0102efuk_3495529" onclick="comment_report('5054769e0102efuk_3495529')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495529">“戏核”是啥东东</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自我这下牛逼了的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495530">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495530"><a href="http://blog.sina.com.cn/u/5145476032" target="_blank">海角流风</a></span><span class="SG_revert_Time" userid="5145476032"><em class="SG_txtc">2014-05-28 10:25:02</em>&nbsp<a id="5054769e0102efuk_3495530" onclick="comment_report('5054769e0102efuk_3495530')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495530">连接… 你的墨发胜雪簪 我在江面等你还 秋风杯杯推人 醉思念在江边发霉 梳妆台  岁月在覆盖 青石板路是我在慷慨 铜镜残缺似你的羞怯 落款时提醒我别忘记</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自海角流风的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495531">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495531"><a href="http://blog.sina.com.cn/u/1619371457" target="_blank">囡狗妈妈</a></span><span class="SG_revert_Time" userid="1619371457"><em class="SG_txtc">2014-05-28 10:25:23</em>&nbsp<a id="5054769e0102efuk_3495531" onclick="comment_report('5054769e0102efuk_3495531')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495531">二十年前敢拍吗？</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495532">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495532"><a href="http://blog.sina.com.cn/u/2543028801" target="_blank">用户2543028801</a></span><span class="SG_revert_Time" userid="2543028801"><em class="SG_txtc">2014-05-28 10:26:06</em>&nbsp<a id="5054769e0102efuk_3495532" onclick="comment_report('5054769e0102efuk_3495532')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495532">同感，不推荐，避重就轻，乏味。</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495534">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495534"><a href="http://blog.sina.com.cn/u/2468588133" target="_blank">青龙玻色子</a></span><span class="SG_revert_Time" userid="2468588133"><em class="SG_txtc">2014-05-28 10:28:46</em>&nbsp<a id="5054769e0102efuk_3495534" onclick="comment_report('5054769e0102efuk_3495534')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495534">马老兄改行搞影评吧。</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495536">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495536"><a href="http://blog.sina.com.cn/u/3235157967" target="_blank">威洛尼艺术涂料</a></span><span class="SG_revert_Time" userid="3235157967"><em class="SG_txtc">2014-05-28 10:30:09</em>&nbsp<a id="5054769e0102efuk_3495536" onclick="comment_report('5054769e0102efuk_3495536')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495536">其实有人勇敢的走出第一步，就会有其他人的第二步！！第三步也就不远了！！步步走向新价值！！<br><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /></div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495535">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495535"><a href="http://blog.sina.com.cn/u/1842628027" target="_blank">jixilizhlulu</a></span><span class="SG_revert_Time" userid="1842628027"><em class="SG_txtc">2014-05-28 10:30:11</em>&nbsp<a id="5054769e0102efuk_3495535" onclick="comment_report('5054769e0102efuk_3495535')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495535">迟了更会讨巧了</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495537">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495537"><a href="http://blog.sina.com.cn/u/1634175383" target="_blank">凉月如眉挂柳湾</a></span><span class="SG_revert_Time" userid="1634175383"><em class="SG_txtc">2014-05-28 10:30:31</em>&nbsp<a id="5054769e0102efuk_3495537" onclick="comment_report('5054769e0102efuk_3495537')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495537">缺少批判，但表演不错。</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495538">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495538"><a href="http://blog.sina.com.cn/u/2081107847" target="_blank">jiajia1858</a></span><span class="SG_revert_Time" userid="2081107847"><em class="SG_txtc">2014-05-28 10:30:55</em>&nbsp<a id="5054769e0102efuk_3495538" onclick="comment_report('5054769e0102efuk_3495538')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495538">写的真深刻，非常喜欢！</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495539">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495539"><a href="http://blog.sina.com.cn/u/2565310940" target="_blank">陈曦1412</a></span><span class="SG_revert_Time" userid="2565310940"><em class="SG_txtc">2014-05-28 10:30:55</em>&nbsp<a id="5054769e0102efuk_3495539" onclick="comment_report('5054769e0102efuk_3495539')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495539">你的高尚情操太让人感动了。马老师让我深深感受到了人性的伟大。就好比黑暗中刺裂夜空的闪电，又好比撕开乌云的阳光，一瞬间就让我如饮甘露，让我明白了永恒的真理在这个世界上是真实存在着的。只有马老师这样具备广阔胸怀和完整知识体系的人，才能作为这真理的惟一引言者，</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自陈曦1412的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495540">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495540"><a href="http://blog.sina.com.cn/u/3235157967" target="_blank">威洛尼艺术涂料</a></span><span class="SG_revert_Time" userid="3235157967"><em class="SG_txtc">2014-05-28 10:31:54</em>&nbsp<a id="5054769e0102efuk_3495540" onclick="comment_report('5054769e0102efuk_3495540')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495540">真的应该看看：”归来“<br><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /></div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495542">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495542"><a href="http://blog.sina.com.cn/u/1637490777" target="_blank">1老邓</a></span><span class="SG_revert_Time" userid="1637490777"><em class="SG_txtc">2014-05-28 10:33:15</em>&nbsp<a id="5054769e0102efuk_3495542" onclick="comment_report('5054769e0102efuk_3495542')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495542">看了原作你会觉得厚度不够，没看原作你会觉得刺激不够。</div>
+			
+			
+			<p class="myReFrom"><img height="15" align="absmiddle" width="15" class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif"> <a target="_blank" href="http://weibo.com/1347712670/B6lZjAHtc">来自1老邓的评论</a></p>		</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495543">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495543"><a href="http://blog.sina.com.cn/u/3283115273" target="_blank">塞北群羊</a></span><span class="SG_revert_Time" userid="3283115273"><em class="SG_txtc">2014-05-28 10:33:34</em>&nbsp<a id="5054769e0102efuk_3495543" onclick="comment_report('5054769e0102efuk_3495543')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495543">问好</div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495544">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495544"><a href="http://blog.sina.com.cn/u/3283115273" target="_blank">塞北群羊</a></span><span class="SG_revert_Time" userid="3283115273"><em class="SG_txtc">2014-05-28 10:34:07</em>&nbsp<a id="5054769e0102efuk_3495544" onclick="comment_report('5054769e0102efuk_3495544')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495544">顶一下<img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /></div>
+			
+			
+					</div>
+	</li>	<li class="SG_j_linedot1" id="cmt_3495545">
+		<table class="SG_revert_Left">
+			<tr>
+				<td></td>
+			</tr>
+		</table>
+		<div class="SG_revert_Cont">
+			<p><span class="SG_revert_Tit" id="nick_cmt_3495545"><a href="http://blog.sina.com.cn/u/2408781607" target="_blank">思齐2009</a></span><span class="SG_revert_Time" userid="2408781607"><em class="SG_txtc">2014-05-28 10:34:55</em>&nbsp<a id="5054769e0102efuk_3495545" onclick="comment_report('5054769e0102efuk_3495545')" href="javascript:;">[举报]</a></span></p>
+			<div class="SG_revert_Inner SG_txtb" id="body_cmt_3495545"><img src="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___0480ZH00SIGT.gif" style="margin:1px;cursor:pointer;" onclick="window.open('http://blog.sina.com.cn/myshow2010')" border="0" title="赞" /></div>
+			
+			
+					</div>
+	</li><div><input id="v1x" type="hidden" value="6d1f93c449828059308f2ba237e842b1"/><input id="v2x" type="hidden" value=""/></div>

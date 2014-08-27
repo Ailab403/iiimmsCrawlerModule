@@ -1,0 +1,54 @@
+#header {
+	height: 70px;
+}
+#checkChoose {
+	height: 500px;
+}
+#header #button {
+	padding-left: 500px;
+}
+#header #watch {
+	padding-top: 10px;
+}
+#timeChoose .save{
+	margin-left: 450px;
+	margin-top: 20px;
+}
+img {
+	opacity: 0.7;
+	filter
+	(alpha=70)
+}
+
+img:hover {
+	opacity: 1;
+	filter
+	(alpha=100)
+}
+#checkChoose #check2 {
+	font-size: 17px;
+}
+
+#checkChoose #check2 .categoryName {
+  
+    padding-top: 10px;
+}
+
+#checkChoose .saveSite {
+	margin-left: 600px;
+}
+
+#checkChoose .saveSite:hover  {
+	margin-left: 600px;
+	color: #FF0000;
+}
+#checkChoose #rotate #fragment-1 #timeChoose a {
+	color: #000000;
+	text-decoration: none;
+}
+#checkChoose #rotate #fragment-1 #timeChoose a:hover{
+	
+	color: #FF0000;
+	text-decoration: none;
+}
+.STYLE1 {color: #FF0000}

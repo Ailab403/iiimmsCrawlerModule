@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.site.dao.FetchParameMapper">
+	<!-- 关联映射 -->
+	<resultMap type="FetchParame" id="fetchParameMap"
+		autoMapping="true">
+		<id column="fetchParameId" property="fetchParameId" />
+		<id column="siteId" property="siteId" />
+		<id column="categoryId" property="categoryId" />
+		<association property="site" column="siteId" javaType="Site"
+			select="getSiteById">
+		</association>
+		<association property="siteCategory" column="categoryId"
+			javaType="SiteCategory" select="getSiteCategoryById">
+		</association>
+		<association property="fetchPagerObj" column="fetchPagerObjId"
+			javaType="FetchPagerObj" select="getFetchPagerObjById">
+		</association>
+	</resultMap>
+
+	<!-- 关联嵌套查询，不是本表的查询， 需要清空缓存，查询方法名前缀改为“get”以示区别 -->
+	<select id="getSiteById" parameterType="int" resultType="Site"
+		flushCache="true">
+		select * from tbl_site where siteId = #{siteId}
+	</select>
+	<select id="getSiteCategoryById" parameterType="int" resultType="SiteCategory"
+		flushCache="true">
+		select * from tbl_siteCategory where categoryId =
+		#{categoryId}
+	</select>
+	<select id="getFetchPagerObjById" parameterType="int"
+		resultType="FetchPagerObj" flushCache="true">
+		select * from tbl_fetchpagerobj
+		where fetchPagerObjId = #{fetchPagerObjId}
+	</select>
+
+	<insert id="add" parameterType="FetchParame">
+		insert into tbl_fetchParame
+		(siteId, categoryId,
+		baNameQuery, titleQuery, readNumQuery,
+		commentNumQuery, forwardNumQuery,
+		pagerQuery, fetchPagerObjId,
+		postDivQuery,
+		postContentQuery,
+		postAuthorQuery, postTimeQuery,
+		replyDivQuery,
+		replyContentQuery,
+		replyAuthorQuery, replyTimeQuery)
+		value
+		(#{site.siteId}, #{siteCategory.categoryId} #{baNameQuery},
+		#{titleQuery}, #{readNumQuery}, #{commentNumQuery},
+		#{forwardNumQuery}, #{pagerQuery},
+		#{fetchPagerObj.fetchPagerObjId},
+		#{postDivQuery},
+		#{postContentQuery},
+		#{postAuthorQuery},
+		#{postTimeQuery},
+		#{replyDivQuery},
+		#{replyContentQuery},
+		#{replyAuthorQuery},
+		#{replyTimeQuery})
+	</insert>
+
+	<delete id="deleteById" parameterType="int">
+		delete from
+		tbl_fetchParame
+		where fetchParameId = #{fetchParameId}
+	</delete>
+
+	<update id="update" parameterType="FetchParame">
+		update tbl_fetchParame set
+		siteId = #{site.siteId}, categoryId
+		= #{siteCategory.categoryId},
+		baNameQuery
+		= #{baNameQuery}, titleQuery =
+		#{titleQuery}, readNumQuery =
+		#{readNumQuery}, commentNumQuery =
+		#{commentNumQuery}, forwardNumQuery
+		= #{forwardNumQuery}, pagerQuery =
+		#{pagerQuery}, fetchPagerObjId =
+		#{fetchPagerObj.fetchPagerObjId},
+		postDivQuery =
+		#{postDivQuery},
+		postContentQuery = #{postContentQuery},
+		postAuthorQuery =
+		#{postAuthorQuery}, postTimeQuery =
+		#{postTimeQuery}, replyDivQuery =
+		#{replyDivQuery}, replyContentQuery
+		= #{replyContentQuery},
+		replyAuthorQuery = #{replyAuthorQuery},
+		replyTimeQuery =
+		#{replyTimeQuery} where fetchParameId =
+		#{fetchParameId}
+	</update>
+
+	<select id="loadBySiteId" parameterType="int" resultMap="fetchParameMap">
+		select *
+		from tbl_fetchParame where siteId = #{siteId}
+	</select>
+
+	<select id="loadById" parameterType="int" resultMap="fetchParameMap">
+		select *
+		from tbl_fetchParame where fetchParameId = #{fetchParameId}
+	</select>
+</mapper>

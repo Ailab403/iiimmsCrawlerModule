@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.site.dao.GrabUserParameMapper">
+	<!-- 关联映射 -->
+	<resultMap type="GrabUserParame" id="grabUserParameMap"
+		autoMapping="true">
+		<id column="grabUserParameId" property="grabUserParameId" />
+		<id column="siteId" property="siteId" />
+		<id column="categoryId" property="categoryId" />
+		<association property="site" column="siteId" javaType="Site"
+			select="getSiteById">
+		</association>
+		<association property="siteCategory" column="categoryId"
+			javaType="SiteCategory" select="getSiteCategoryById">
+		</association>
+	</resultMap>
+
+	<!-- 关联嵌套查询，不是本表的查询， 需要清空缓存，查询方法名前缀改为“get”以示区别 -->
+	<select id="getSiteById" parameterType="int" resultType="Site"
+		flushCache="true">
+		select * from tbl_site where siteId = #{siteId}
+	</select>
+	<select id="getSiteCategoryById" parameterType="int" resultType="SiteCategory"
+		flushCache="true">
+		select * from tbl_siteCategory where categoryId =
+		#{categoryId}
+	</select>
+
+	<insert id="add" parameterType="GrabUserParame">
+		insert into tbl_grabUserParame
+		(siteId, categoryId, themePageNumLimit, postStartTimeLimit,
+		postEndTimeLimit,
+		postTimeRangeLimit, timeDeterminer,
+		postClickNumLimit,
+		postReplyNumLimit) value (#{site.siteId},
+		#{siteCategory.categoryId},
+		#{themePageNumLimit},
+		#{postStartTimeLimit}, #{postEndTimeLimit}, #{postTimeRangeLimit},
+		#{timeDeterminer}, #{postClickNumLimit}, #{postReplyNumLimit})
+	</insert>
+
+	<delete id="deleteById" parameterType="int">
+		delete from
+		tbl_grabUserParame
+		where grabUserParameId = #{grabUserParameId}
+	</delete>
+
+	<update id="update" parameterType="GrabUserParame">
+		update tbl_grabUserParame set
+		siteId = #{site.siteId},
+		categoryId = #{siteCategory.categoryId},
+		themePageNumLimit =
+		#{themePageNumLimit}, postStartTimeLimit =
+		#{postStartTimeLimit},
+		postEndTimeLimit = #{postEndTimeLimit},
+		postTimeRangeLimit =
+		#{postTimeRangeLimit}, timeDeterminer =
+		#{timeDeterminer},
+		postClickNumLimit = #{postClickNumLimit},
+		postReplyNumLimit =
+		#{postReplyNumLimit} where
+		grabUserParameId =
+		#{grabUserParameId}
+	</update>
+
+	<select id="loadBySiteId" parameterType="int" resultMap="grabUserParameMap">
+		select *
+		from tbl_grabUserParame where siteId = #{siteId}
+	</select>
+
+	<select id="loadById" parameterType="int" resultMap="grabUserParameMap">
+		select *
+		from tbl_grabUserParame where grabUserParameId = #{grabUserParameId}
+	</select>
+</mapper>

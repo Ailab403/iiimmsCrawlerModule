@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.crawlerLog.dao.SiteLogMapper">
+	<!-- 关联映射 -->
+	<resultMap type="SiteLog" id="siteLogMap" autoMapping="true">
+		<id column="siteLogId" property="siteLogId" />
+		<id column="taskLogId" property="taskLogId" />
+		<id column="siteId" property="siteId" />
+		<association property="taskLog" column="taskLogId"
+			javaType="TaskLog" select="getTaskLogById">
+		</association>
+		<association property="site" column="siteId" javaType="Site"
+			select="getSiteById">
+		</association>
+	</resultMap>
+
+	<!-- 关联嵌套查询，不是本表的查询， 需要清空缓存，查询方法名前缀改为“get”以示区别 -->
+	<select id="getTaskLogById" parameterType="String" resultType="TaskLog"
+		flushCache="true">
+		select * from tbl_taskLog where taskLogId = #{taskLogId}
+	</select>
+	<select id="getSiteById" parameterType="int" resultType="Site"
+		flushCache="true">
+		select * from tbl_site where siteId = #{siteId}
+	</select>
+
+	<insert id="add" parameterType="SiteLog">
+		insert into tbl_siteLog
+		(siteLogId,taskLogId, siteId, siteStatus, siteThemeNum,
+		siteNewPostNum, siteUpdatePostNum, siteFixPostNum, grabCostTime, grabCostTimeNum,
+		siteFetchNum, siteFetchSuccNum, fetchCostTime, fetchCostTimeNum, siteLogExp) value
+		(#{siteLogId},
+		#{taskLog.taskLogId}, #{site.siteId}, #{siteStatus},
+		#{siteThemeNum}, #{siteNewPostNum}, #{siteUpdatePostNum},
+		#{siteFixPostNum}, #{grabCostTime}, #{grabCostTimeNum}, #{siteFetchNum},
+		#{siteFetchSuccNum},
+		#{fetchCostTime}, #{fetchCostTimeNum}, #{siteLogExp})
+	</insert>
+
+	<delete id="deleteById" parameterType="String">
+		delete from tbl_siteLog
+		where siteLogId = #{siteLogId}
+	</delete>
+
+	<delete id="deleteByTaskLogId" parameterType="String">
+		delete from
+		tbl_siteLog where taskLogId = #{taskLogId}
+	</delete>
+
+	<update id="update" parameterType="SiteLog">
+		update tbl_siteLog set
+		taskLogId = #{taskLog.taskLogId},
+		siteId=#{site.siteId},
+		siteStatus=#{siteStatus},
+		siteThemeNum=
+		#{siteThemeNum},
+		siteNewPostNum=#{siteNewPostNum},
+		siteUpdatePostNum=#{siteUpdatePostNum},
+		siteFixPostNum=#{siteFixPostNum},
+		grabCostTime=#{grabCostTime},
+		grabCostTimeNum=#{grabCostTimeNum},
+		siteFetchNum=#{siteFetchNum},
+		siteFetchSuccNum =
+		#{siteFetchSuccNum},
+		fetchCostTime=#{fetchCostTime},
+		fetchCostTimeNum=#{fetchCostTimeNum},
+		siteLogExp=#{siteLogExp}
+		where
+		siteLogId
+		= #{siteLogId}
+	</update>
+
+	<update id="updateSiteStatusById" parameterType="SiteLog">
+		update
+		tbl_siteLog set siteStatus = #{siteStatus} where siteLogId =
+		#{siteLogId}
+	</update>
+	<select id="loadById" parameterType="String" resultMap="siteLogMap">
+		select *
+		from tbl_siteLog
+		where siteLogId = #{siteLogId}
+	</select>
+
+	<select id="listAll" resultMap="siteLogMap">
+		select * from tbl_siteLog
+	</select>
+
+	<select id="listByTaskLogId" parameterType="String" resultMap="siteLogMap">
+		select * from tbl_siteLog
+		where taskLogId = #{taskLogId}
+	</select>
+
+</mapper>

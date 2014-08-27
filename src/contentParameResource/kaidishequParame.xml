@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parame-info version="1.0" refreshtime="2014-02-24 16:51:00">
+
+	<element id="baNameQuery">
+		<value>div.forum</value>
+	</element>
+	<element id="titleQuery">
+		<value>div.posts-title</value>
+	</element>
+	<element id="pagerQuery">
+		<value>div.pagesmodule</value>
+	</element>
+	<element id="fetchPagerMethod">
+		<value>getKaidiSheQuPagerUrl</value>
+	</element>
+	<element id="postDivQuery">
+		<value>div.posted-box-add,div[class*=reply-box]</value>
+	</element>
+	<element id="postContentQuery">
+		<value>div.posts-cont,div.replycont-text</value>
+	</element>
+	<element id="postAuthorQuery">
+		<value>a[href*=user],span[class*=name]>a[href*=user]</value>
+	</element>
+	<element id="postTimeQuery">
+		<value>
+			div.posts-posted,div[class^=posted-info]:has(span.c-sub)
+		</value>
+	</element>
+	<element id="replyDivQuery">
+		<value></value>
+	</element>
+	<element id="replyContentQuery">
+		<value></value>
+	</element>
+	<element id="replyAuthorQuery">
+		<value></value>
+	</element>
+	<element id="replyTimeQuery">
+		<value></value>
+	</element>
+</parame-info>

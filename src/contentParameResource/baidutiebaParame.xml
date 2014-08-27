@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parame-info version="1.1.1" refreshtime="2014-02-24 20:15:00">
+	<!-- <postweb-info id="baidutieba"> </postweb-info> -->
+
+	<element id="baNameQuery">
+		<value>a#tab_home</value>
+	</element>
+	<element id="titleQuery">
+		<value>h1.core_title_txt</value>
+	</element>
+	<element id="pagerQuery">
+		<value>li[class*=l_pager]</value>
+	</element>
+	<element id="fetchPagerMethod">
+		<value>getBaidutiebaPagerUrl</value>
+	</element>
+	<element id="postDivQuery">
+		<value>div[class*=l_post]</value>
+	</element>
+	<element id="postContentQuery">
+		<value>div.p_content</value>
+	</element>
+	<element id="postAuthorQuery">
+		<value>a[class*=p_author_name]</value>
+	</element>
+	<element id="postTimeQuery">
+		<value>ul.p_tail</value>
+	</element>
+	<element id="replyDivQuery">
+		<value>li[class*=lzl_single_post]</value>
+	</element>
+	<element id="replyContentQuery">
+		<value>span.lzl_content_main</value>
+	</element>
+	<element id="replyAuthorQuery">
+		<value>a.at.j_user_card</value>
+	</element>
+	<element id="replyTimeQuery">
+		<value>span.lzl_time</value>
+	</element>
+</parame-info>

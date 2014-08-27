@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ims.crawlerLog.dao.TaskLogMapper">
+	<insert id="add" parameterType="TaskLog">
+		insert into tbl_taskLog
+		(taskLogId, taskStatus, startTime, activeTime, endTime, costTime,
+		costTimeNum,
+		grabSiteNum,
+		grabSiteSuccNum, totalThemeNum,
+		totalGrabNewPostNum,
+		totalGrabUpdatePostNum, totalFetchPostNum,
+		totalFetchSuccPostNum,
+		taskPauseTimes, taskInfoExp,
+		taskLogExp)
+		value
+		(#{taskLogId},
+		#{taskStatus},
+		#{startTime}, #{activeTime},
+		#{endTime},
+		#{costTime}, #{costTimeNum},
+		#{grabSiteNum},
+		#{grabSiteSuccNum},
+		#{totalThemeNum},
+		#{totalGrabNewPostNum},
+		#{totalGrabUpdatePostNum},
+		#{totalFetchPostNum},
+		#{totalFetchSuccPostNum},
+		#{taskPauseTimes},
+		#{taskInfoExp},
+		#{taskLogExp})
+	</insert>
+
+	<delete id="deleteById" parameterType="String">
+		delete from tbl_taskLog
+		where taskLogId = #{taskLogId}
+	</delete>
+
+	<update id="update" parameterType="TaskLog">
+		update tbl_taskLog set
+		taskStatus = #{taskStatus}, startTime =
+		#{startTime}, activeTime =
+		#{activeTime}, endTime =
+		#{endTime}, costTime =
+		#{costTime},
+		costTimeNum=#{costTimeNum},
+		grabSiteNum = #{grabSiteNum},
+		grabSiteSuccNum =
+		#{grabSiteSuccNum},
+		totalThemeNum = #{totalThemeNum},
+		totalGrabNewPostNum =
+		#{totalGrabNewPostNum}, totalGrabUpdatePostNum =
+		#{totalGrabUpdatePostNum}, totalFetchPostNum = #{totalFetchPostNum},
+		totalFetchSuccPostNum = #{totalFetchSuccPostNum}, taskPauseTimes =
+		#{taskPauseTimes}, taskInfoExp = #{taskInfoExp}, taskLogExp =
+		#{taskLogExp} where
+		taskLogId =
+		#{taskLogId}
+	</update>
+
+	<update id="updateTaskStatusById" parameterType="TaskLog">
+		update
+		tbl_taskLog set taskStatus = #{taskStatus} where taskLogId =
+		#{taskLogId}
+	</update>
+
+	<select id="loadById" parameterType="String" resultType="TaskLog">
+		select *
+		from tbl_taskLog
+		where taskLogId = #{taskLogId}
+	</select>
+
+	<select id="listAll" resultType="TaskLog">
+		select * from tbl_taskLog
+	</select>
+
+	<select id="loadByIdOnMax" resultType="TaskLog">
+		select * from tbl_taskLog
+		order by taskLogId desc limit 1;
+	</select>
+</mapper>
