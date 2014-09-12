@@ -32,8 +32,8 @@ public class GetMaoputietiePagerImpl implements GetPostPager {
 			}
 
 			Element elePagerDiv = docPager.select(pagerQuery).first();
-			while (elePagerDiv.select("a.end").size() != 0) {
-				String strNextPage = elePagerDiv.select("a.end").first().attr(
+			while (elePagerDiv.select("a[class^=m-page-down]").size() != 0) {
+				String strNextPage = elePagerDiv.select("a[class^=m-page-down]").first().attr(
 						"abs:href");
 
 				listPagerUrl.add(strNextPage);
